@@ -68,7 +68,7 @@ Homework should be optional after 10 PM
 
 5. Add, commit, and push your changes:
   - git add README.md
-  - git commit -m "Add controversial opinion"
+  - git commit -m "Add conversational statement is on GitHub"
   - git push
 
 6. Confirm that your controversial statement appears on the `main` branch of **your fork** on GitHub.
